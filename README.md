@@ -1,1 +1,2 @@
-# Minority-Owned-Business-Disparities-Side-Project
+# Minority Owned Business Disparities Side Project
+## Introduction
