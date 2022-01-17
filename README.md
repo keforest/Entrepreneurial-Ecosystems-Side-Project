@@ -1,2 +1,4 @@
-# Minority Owned Business Disparities Side Project
+# Entrepreneurial Ecosystems Side Project
+
 ## Introduction
+
